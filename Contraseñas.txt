@@ -1,0 +1,11 @@
+Admin:
+root
+root
+
+alumnos:
+21757547F
+1234
+
+profesor:
+65784132H
+6543
